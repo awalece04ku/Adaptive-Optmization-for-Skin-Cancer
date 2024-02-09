@@ -14,8 +14,13 @@ Comments, suggestions, and collaboration are welcome.
 All Co-Authors, patinets and nurses are highly acknowledged. 
 
 Dr Md Abdul Awal
+
 Post-doctoral Research Fellow in Data Science 
+
 School of Electrical Engineering and Computer Science
+
 The University of Queensland 
+
 Brisbane 4067 Australia
+
 m.awal@uq.edu.au 
