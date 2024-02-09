@@ -6,9 +6,9 @@ This repository contains code for the paper "Adaptive Weighted Vector Means Opti
 # Files descriptions
 1. [Skin_cancer_Modeling](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/Skin_cancer_Modeling.m): This is the main program. You can calibrate the parameter range according to your needs.
 2. [Skin_dielectric_data.mat](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/Skin_dielectric_data.mat): Contains sample skin data file in matlab format.
-3. [adaptive_initilization](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/adaptive_initilization.m): It is the proposed adaptive_initilization algorithm used in the Adaptive_Weighted_Vector_Mean_Optimization. It required initialize_population_DRAM ( https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/initialize_population_DRAM.m) function.
-[Adaptive_Weighted_Vector_Mean_Optimization](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/Adaptive_Weighted_Vector_Mean_Optimization.m): Our proposed optimization inspired by Weighted_Vector_Mean_Optimization algorithm.
-[objeective_fun_cole_cole_second_order_final](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/objeective_fun_cole_cole_second_order_final.m): This is an objective function using Second-order Cole-Cole function.
+3. [adaptive_initilization](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/adaptive_initilization.m): It is the proposed adaptive_initilization algorithm used in the Adaptive_Weighted_Vector_Mean_Optimization. It required initialize_population_DRAM( https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/initialize_population_DRAM.m) function.
+4. [Adaptive_Weighted_Vector_Mean_Optimization](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/Adaptive_Weighted_Vector_Mean_Optimization.m): Our proposed optimization inspired by Weighted_Vector_Mean_Optimization algorithm.
+5. [objeective_fun_cole_cole_second_order_final](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/objeective_fun_cole_cole_second_order_final.m): This is an objective function using Second-order Cole-Cole function.
 
 Comments, suggestions, and collaboration are welcome. 
 All Co-Authors, patinets and nurses are highly acknowledged. 
