@@ -135,7 +135,7 @@ function [Best_Cost,Best_X,Convergence_curve]=Adaptive_Weighted_Vector_Mean_Opti
             end
 
 
-             % Reintroduce diversity by reinitializing a portion of the population using Adaptive initialization 
+             %% Reintroduce diversity by reinitializing a portion of the population using Adaptive initialization 
        
         if mod(it,Max_iter_diversity_factor) == 0
 
