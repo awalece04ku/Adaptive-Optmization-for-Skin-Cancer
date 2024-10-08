@@ -3,6 +3,8 @@ This repository contains code for the paper "Adaptive Weighted Vector Means Opti
 link:https://doi.org/10.1109/JERM.2024.3374090
 
 ![Skin Cancer (2)](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/assets/44156683/df649e05-d98d-4939-b4ab-64c10af25dc8)
+<img width="256" alt="Untitled" src="https://github.com/user-attachments/assets/2a9825ae-2208-4c95-9996-854767e7a387">
+
 
 # Files descriptions
 1. [Skin_cancer_Modeling](https://github.com/awalece04ku/Adaptive-Optmization-for-Skin-Cancer/blob/main/Skin_cancer_Modeling.m): This is the main program. You can calibrate the parameter range according to your needs.
